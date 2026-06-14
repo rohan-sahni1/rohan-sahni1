@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**rohan-sahni1/rohan-sahni1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rohan, an aspiring software developer and BCA student at Maharaja Surajmal Institute : GGSIPU.
 
-Here are some ideas to get you started:
+I enjoy building software, solving problems, and turning ideas into practical applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm exploring software development, data science, and building projects that help me learn by doing.
+
+⚡️ What I'm Working On
+
+* Developing personal and academic projects
+* Gaining strong knowledge on javascript
+* Strengthening my problem-solving skills
+* Learning more about software development
+* Preparing for software development internships
+
+👨🏻‍💼 A Few Things About Me
+
+* 🏆 Secured 1st place in my college's internal Smart India Hackathon (SIH)
+* 📚 Always learning something new in tech
+* 💡 Interested in software development and data-driven solutions
+* 🚀 Looking for opportunities to grow as a developer
+
+~ Reach Me
+
+* LinkedIn: www.linkedin.com/in/rohan-sahni-026026331
