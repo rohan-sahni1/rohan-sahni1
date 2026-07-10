@@ -23,4 +23,4 @@ Currently, I'm exploring software development, data science, and building projec
 
 ~ Reach Me
 
-* LinkedIn: www.linkedin.com/in/rohan-sahni-026026331
+* LinkedIn: www.linkedin.com/in/rohan-sahni1
